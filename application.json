@@ -1,6 +1,6 @@
 {
     "id": "testtemp",
-    "description": "This is a sample application",
+    "description": "This is a sample ",
     "sdkDependencies": {
         "uiPluginSDK": "1.2.0",
         "analyticsSDK": "1.0.0",
